@@ -10,7 +10,7 @@ import {
 export default function Home() {
   return (
     <div className="flex flex-col  md:justify-center items-center bg-gray-900 h-screen ">
-           <div className='border p-9 rounded-xl'>
+           <div className='border p-9 rounded-xl bg-white-900'>
             <AuthForm />
             </div>
 
